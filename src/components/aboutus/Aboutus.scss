@@ -1,0 +1,25 @@
+@import "../../global.scss";
+
+
+.aboutus{
+    background: rgb(242, 184, 218);
+  //background: radial-gradient(circle, rgba(248,171,251,1) 0%, rgba(236,146,161,1) 30%, rgba(158,170,247,0.9780287114845938) 100%);
+}
+
+.vertical-timeline--two-columns .vertical-timeline-element-icon {
+  width: 60px;
+  height: 60px;
+  left: 50%;
+  margin-left: -30px;
+  margin-top: 5px;
+}
+
+.vertical-timeline-element-date {
+  position: absolute;
+  width: 100%;
+  left: 124%;
+  top: 6px;
+  font-size: 16px;
+  color: black;
+
+}
