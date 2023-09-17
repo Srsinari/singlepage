@@ -9,30 +9,30 @@ export default function Marqueee() {
       <Marquee>
        
     <div className='postcard'>
-    <img src='../assets/1.jpg' alt='' />
+    <img src='./assets/1.jpg' alt='' />
     <p>Image 1 Description</p>
     </div>
     <div className='postcard'>
-    <img src='../assets/2.jpg' alt='' />
+    <img src='./assets/2.jpg' alt='' />
     <p>Image 1 Description</p>
     </div>
     <div className='postcard'>
-    <img src='../assets/3.jpg' alt='' />
+    <img src='./assets/3.jpg' alt='' />
     <p>Image 1 Description</p>
     </div>
     <div className='postcard'>
-    <img src='../assets/4.jpg' alt='' />
+    <img src='./assets/4.jpg' alt='' />
     <p>Image 1 Description</p>
     </div>
     <div className='postcard'>
-    <img src='../assets/5.jpg' alt='' />
+    <img src='./assets/5.jpg' alt='' />
     <p>Image 1 Description</p>
     </div>
     <div className='postcard'>
-    <img src='../assets/6.jpg' alt='' />
+    <img src='./assets/6.jpg' alt='' />
     <p>Image 1 Description</p>
     </div><div className='postcard'>
-    <img src='../assets/7.jpg' alt='' />
+    <img src='./assets/7.jpg' alt='' />
     <p>Image 1 Description</p>
     </div>
     

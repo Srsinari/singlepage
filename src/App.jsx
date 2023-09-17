@@ -1,6 +1,6 @@
 import React, { useState } from "react"
 import Topbar from "./components/Topbar/Topbar"
-import Intro from "./components/Intro/intro"
+import Intro from "./components/intro/intro"
 import Portfolio from "./components/portfolio/Portfolio"
 import Aboutus from "./components/aboutus/Aboutus"
 import Testimonial from "./components/testimonial/Testimonial"
@@ -25,13 +25,13 @@ function App() {
     <Routes>
       
       
-      <Route path="/intro" element={<Intro/>}/>
-      <Route path="" element={<Intro/>}/>
-        <Route path="/Slide" element={<Slidesh/>}/>
-        <Route path="/Portfolio" element={<Portfolio/>}/>
-        <Route path="/Aboutus" element={<Aboutus/>}/>
-        <Route path="/Testimonial" element={<Testimonial/>}/>
-        <Route path="/thankyou" element={<Thankyou/>}/>
+      <Route path="/BD_wishes" element={<Intro/>}/>
+      <Route path="intro" element={<Intro/>}/>
+        <Route path="Slide" element={<Slidesh/>}/>
+        <Route path="portfolio" element={<Portfolio/>}/>
+        <Route path="Aboutus" element={<Aboutus/>}/>
+        <Route path="Testimonial" element={<Testimonial/>}/>
+        <Route path="thankyou" element={<Thankyou/>}/>
       
       </Routes>
       </Router>

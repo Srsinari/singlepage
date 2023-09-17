@@ -13,7 +13,7 @@ export default function Intro() {
      
       <div className='imgcontainer' >
       
-        <img src="/assets/image.jpg" alt='DP' ></img>
+        <img src="./assets/image.jpg" alt='DP' ></img>
         
       </div>
     </div>

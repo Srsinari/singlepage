@@ -12,7 +12,7 @@ export default function Portfolio() {
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
       img:
-        "assets/image3.jpg",
+        "./assets/image3.jpg",
     },
     {
       id: "2",
@@ -21,16 +21,16 @@ export default function Portfolio() {
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       img:
-      "assets/image2.jpg",
+      "./assets/image2.jpg",
     },
     {
       id: "3",
-      icon: "./assets/writing.png",
+      icon: "assets/writing.png",
       title: "Imagw3",
       desc:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
       img:
-        "assets/image1.jpg",
+        "./assets/image1.jpg",
     },
   ];
 
