@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BD_wishes/static/css/main.ac8adadb.css",
+    "main.js": "/BD_wishes/static/js/main.b539639c.js",
+    "index.html": "/BD_wishes/index.html",
+    "main.ac8adadb.css.map": "/BD_wishes/static/css/main.ac8adadb.css.map",
+    "main.b539639c.js.map": "/BD_wishes/static/js/main.b539639c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8adadb.css",
+    "static/js/main.b539639c.js"
+  ]
+}
